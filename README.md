@@ -12,53 +12,7 @@
 
 > Here are some ideas to get you started:
 
-```javascript
-{
-  "name": "init-receipt",
-  "version": "0.4.7",
-  "description": "Receipt of Initialization",
-  "main": "index.js",
-  "scripts": {
-    "dev": "next",
-    "build": "next build",
-    "start": "next start"
-  },
-  "keywords": [],
-  "author": "Prof. NOTA",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/myreceiptt/myreceiptt.git"
-  },
-  "bugs": {
-    "url": "https://github.com/myreceiptt/myreceiptt/issues"
-  },
-  "homepage": "https://github.com/myreceiptt/myreceiptt#readme",
-  "dependencies": {
-    "next": "^10.0.3",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
-  }
-}
-```
-
-> Init! Init it! Init!
-
-```javascript
-import React, { Component } from "react"
-
-export default class extends Component {
-  render () {
-    return (
-      <div><h4>DevOps: Initialization Page!</h4></div>
-      <div>
-        <p>Please visit this link: <a href="https://deeplinks.straight-line.org/" target="_blank" rel="noreferrer">Prof. NOTA's Deep Links</a></p>
-        <p><i>Please note that this link merely provide list of <a href="https://deeplinks.straight-line.org/" target="_blank" rel="noreferrer">Prof. NOTA's Deep Links</a> and does not facilitate the access to or use of the Deep Links.</i></p>
-      </div>
-    )
-  }
-}
-```
+A derivative project which give birth to an NFT collection, named "Conserve ROTY BROI" that contains physical artworks by various traditional artists in BALI island to Conserve some of The ROTY BROI NFTs' artwork assets.
 
 > Regards
 > 
@@ -67,6 +21,3 @@ export default class extends Component {
 > [init.straight-line.org](https://init.straight-line.org/)
 > 
 
-<!--
-**myreceiptt/myreceiptt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on Prof. NOTA's GitHub profile.
--->
